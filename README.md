@@ -13,7 +13,7 @@
 
 ## Pattern: Sliding Window
 
-- https://leetcode.com/problems/maximum-subarray/ # Close enough
+- https://leetcode.com/problems/maximum-subarray/ # Close enough, but not really. This is a DP problem if you don't know Kadane's algorithm, and has almost nothing to do with sliding window, might be closer to two pointers if anything.
 - https://leetcode.com/problems/minimum-size-subarray-sum/
 - https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - https://leetcode.com/problems/fruit-into-baskets/
