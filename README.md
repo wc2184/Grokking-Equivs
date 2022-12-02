@@ -1,6 +1,6 @@
 # GROKKING NOTES forked from [tykurtz](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
 
-# 18 Patterns
+# 18 Patterns (16 originally)
 
 ##### For Sliding Window, Two Pointers, Fast and Slow, and everything else:
 - https://www.educative.io/courses/grokking-the-coding-interview
