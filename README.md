@@ -13,7 +13,8 @@
 
 ## Pattern: Sliding Window
 
-- https://leetcode.com/problems/maximum-subarray/ # Close enough, but not really. This is a DP problem if you don't know Kadane's algorithm, and is a sliding window problem because of the continuous subtracting of the sum at the tail end, but the crux is DP.
+- https://leetcode.com/problems/maximum-subarray/ # Close enough, but not really. This is a Greedy ~~DP~~ problem if you don't know Kadane's algorithm, and is a sliding window problem because of the continuous subtracting of the sum at the tail end, but the crux is Greedy ~~DP~~.
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ Is also similar to the above, Greedy and Kadanes
 - https://leetcode.com/problems/minimum-size-subarray-sum/
 - https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - https://leetcode.com/problems/fruit-into-baskets/
