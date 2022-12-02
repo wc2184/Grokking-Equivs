@@ -1,6 +1,6 @@
-# GROKKING NOTES
+# GROKKING NOTES by [tykurtz](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
 
-I liked the way Grokking the coding interview organized problems into learnable patterns. However, the course is expensive and the majority of the time the problems are copy-pasted from leetcode. As the explanations on leetcode are usually just as good, the course really boils down to being a glorified curated list of leetcode problems.
+"I liked the way Grokking the coding interview organized problems into learnable patterns. However, the course is expensive and the majority of the time the problems are copy-pasted from leetcode. As the explanations on leetcode are usually just as good, the course really boils down to being a glorified curated list of leetcode problems."
 
 So below I made a list of leetcode problems that are as close to grokking problems as possible.
 # 18 Patterns
