@@ -2,6 +2,8 @@
 
 # 18 Patterns (16 originally)
 
+##### [⭐ Kirb350 (Peek Row 399) ⭐](https://docs.google.com/spreadsheets/u/1/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/htmlview#gid=0) | [Neetcode](https://neetcode.io/practice) | [Strider's](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) | [Amazon Card](https://leetcode.com/explore/interview/card/amazon/)
+
 ##### For Sliding Window, Two Pointers, Fast and Slow, and everything else:
 - https://www.educative.io/courses/grokking-the-coding-interview
 
