@@ -5,16 +5,15 @@ I liked the way Grokking the coding interview organized problems into learnable 
 So below I made a list of leetcode problems that are as close to grokking problems as possible.
 # 18 Patterns
 
-## For Sliding Window, Two Pointers, Fast and Slow, and everything else:
+##### For Sliding Window, Two Pointers, Fast and Slow, and everything else:
 - https://www.educative.io/courses/grokking-the-coding-interview
 
-## For Matrix Traversal and Multi-Threaded:
+##### For Matrix Traversal and Multi-Threaded:
 - https://designgurus.org/course/grokking-the-coding-interview
 
 
 ---
----
----
+
 ## Pattern: Sliding Window
 
 - https://leetcode.com/problems/maximum-subarray/ # Close enough
