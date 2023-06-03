@@ -10,7 +10,11 @@
 ##### For Matrix Traversal and Multi-Threaded:
 - https://designgurus.org/course/grokking-the-coding-interview
 
-
+##### Union Find
+- https://www.youtube-nocookie.com/embed/ayW5B2W9hfo
+- https://aquarchitect.github.io/swift-algorithm-club/Union-Find/
+- https://www.youtube.com/watch?v=8f1XPm4WOUc
+- https://www.youtube.com/watch?v=FXWRE67PLL0
 ---
 
 ## Pattern: Sliding Window
