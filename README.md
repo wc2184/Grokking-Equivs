@@ -2,7 +2,7 @@
 
 # 18 Patterns (16 originally)
 
-##### [⭐Kirb350⭐](https://docs.google.com/spreadsheets/u/1/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/htmlview#gid=0) [Row 399](https://docs.google.com/spreadsheets/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/edit#gid=0&range=A399) | [Neetcode](https://neetcode.io/practice) | [Strider's](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) | [Amazon Card](https://leetcode.com/explore/interview/card/amazon/) | [Sean Prashad](https://seanprashad.com/leetcode-patterns/)
+##### [⭐Kirb350⭐](https://docs.google.com/spreadsheets/u/1/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/htmlview#gid=0(https://docs.google.com/spreadsheets/d/1jPIJPDQIp2rdx1Mx7p4UgDhbT0w04u8L5aH1QPeykFM/edit#gid=0&range=A399) [Row 399](https://docs.google.com/spreadsheets/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/edit#gid=0&range=A399) | [Neetcode](https://neetcode.io/practice) | [Strider's](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) | [Amazon Card](https://leetcode.com/explore/interview/card/amazon/) | [Sean Prashad](https://seanprashad.com/leetcode-patterns/)
 
 ##### For Sliding Window, Two Pointers, Fast and Slow, and everything else:
 - https://www.educative.io/courses/grokking-the-coding-interview
