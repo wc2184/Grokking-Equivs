@@ -19,6 +19,7 @@
 ##### Quickselect
 - https://leetcode.com/problems/kth-largest-element-in-an-array
 - https://leetcode.com/problems/top-k-frequent-elements
+- https://leetcode.com/tag/quickselect/discuss/1898569/MetaFB-K-Closest-Points-to-Origin%3A-an-O(N)-avg.-timeO(1)-space-solution
 ---
 
 ## Pattern: Sliding Window
