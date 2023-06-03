@@ -2,7 +2,7 @@
 
 # 18 Patterns (16 originally)
 
-##### [⭐Kirb350⭐](https://docs.google.com/spreadsheets/u/1/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/htmlview#gid=0) [Row 399](https://docs.google.com/spreadsheets/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/edit#gid=0&range=A399) | [Neetcode](https://neetcode.io/practice) | [Strider's](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) | [Amazon Card](https://leetcode.com/explore/interview/card/amazon/)
+##### [⭐Kirb350⭐](https://docs.google.com/spreadsheets/u/1/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/htmlview#gid=0) [Row 399](https://docs.google.com/spreadsheets/d/1bbpJkNqNorsZcNUOK5e2mYnSEGgpfR1CKqcVg9OinEo/edit#gid=0&range=A399) | [Neetcode](https://neetcode.io/practice) | [Strider's](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) | [Amazon Card](https://leetcode.com/explore/interview/card/amazon/) | [Sean Prashad](https://seanprashad.com/leetcode-patterns/)
 
 ##### For Sliding Window, Two Pointers, Fast and Slow, and everything else:
 - https://www.educative.io/courses/grokking-the-coding-interview
@@ -15,6 +15,10 @@
 - https://aquarchitect.github.io/swift-algorithm-club/Union-Find/
 - https://www.youtube.com/watch?v=8f1XPm4WOUc
 - https://www.youtube.com/watch?v=FXWRE67PLL0
+
+##### Quickselect
+- https://leetcode.com/problems/kth-largest-element-in-an-array
+- https://leetcode.com/problems/top-k-frequent-elements
 ---
 
 ## Pattern: Sliding Window
